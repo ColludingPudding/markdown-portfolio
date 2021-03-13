@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![something I haven't decided](https://cdn.discordapp.com/emojis/809977007328329788.gif?v=1)
